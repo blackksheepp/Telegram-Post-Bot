@@ -1,1 +1,1 @@
-# Just A Raw Repo, Should At Least Work, Will Publish Complete Repo with Instructions Later.
+Please Use https://github.com/Random-Pickle/Shaaak-Bot
